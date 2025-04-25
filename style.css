@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+    margin: auto;
+    text-align: center;
+}
+ol, ul {
+    list-style-position: inside;
+    text-align: center;
+    padding-left: 0;
+  }  
+h1{
+    text-align: center;
+    font-family: fantasy, sans-serif;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    margin: 20px;
+    border-width: 1px;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 20px;
+}
+a{
+    text-align: center;
+}
